@@ -1,0 +1,2 @@
+Livro:1|Usuario:2|Devolvido:0
+Livro:4|Usuario:1|Devolvido:1
