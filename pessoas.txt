@@ -1,0 +1,9 @@
+ID:1|Usuario:Lucas|Senha:12345|Excluido:0
+ID:2|Usuario:lcs|Senha:1234|Excluido:0
+ID:3|Usuario:Joana|Senha:12|Excluido:1
+ID:5|Usuario:Pinkas|Senha:12345|Excluido:0
+ID:4|Usuario:Marcos|Senha:125|Excluido:0
+ID:5|Usuario:allan|Senha:12345|Excluido:0
+ID:6|Usuario:schoffen|Senha:123|Excluido:0
+ID:7|Usuario:vinicius|Senha:123|Excluido:0
+ID:8|Usuario:Joao|Senha:111|Excluido:0

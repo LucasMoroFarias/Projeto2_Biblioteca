@@ -1,0 +1,10 @@
+ID:1|Titulo:Percy Jackson|Autor:Jonas|Paginas:450|Genero:Aventura|Quantidade:2|Emprestados:0|Excluido:0
+ID:2|Titulo:Menino Maluquinho|Autor:Marcos|Paginas:44|Genero:Aventura|Quantidade:4|Emprestados:0|Excluido:0
+ID:3|Titulo:Kenan e Kell|Autor:Bruno|Paginas:451|Genero:Comedia|Quantidade:2|Emprestados:0|Excluido:1
+ID:4|Titulo:Harry Potter|Autor:Mariana|Paginas:51|Genero:Acao|Quantidade:6|Emprestados:0|Excluido:0
+ID:5|Titulo:Dragon Ball|Autor:Akira|Paginas:575|Genero:Acao|Quantidade:5|Emprestados:0|Excluido:0
+ID:6|Titulo:O Principe|Autor:Maquiavel|Paginas:678|Genero:Biografia|Quantidade:5|Emprestados:0|Excluido:0
+ID:7|Titulo:MineCraft|Autor:Steve Jobs|Paginas:54|Genero:Aventura|Quantidade:3|Emprestados:0|Excluido:0
+ID:8|Titulo:Capitao Caverna|Autor:Ana|Paginas:67|Genero:Fantasia|Quantidade:5|Emprestados:0|Excluido:0
+ID:9|Titulo:Drake e Josh|Autor:Michael|Paginas:4|Genero:Comedia|Quantidade:2|Emprestados:0|Excluido:0
+ID:10|Titulo:As Aventuras de Pi|Autor:Nina|Paginas:87|Genero:Aventura|Quantidade:5|Emprestados:0|Excluido:0
